@@ -3,7 +3,7 @@ import nltk
 from nltk.corpus import stopwords, twitter_samples
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
-from textVectorizer import TextVectorizer
+
 
 
 nltk.download('punkt')
